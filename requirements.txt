@@ -1,2 +1,8 @@
 discord.py
+python-dotenv
 requests
+aiohttp
+pydub
+numpy
+scipy
+typing-extensions
