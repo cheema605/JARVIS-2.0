@@ -1,0 +1,182 @@
+{
+  "user_memories": {
+    "cheema4681": [
+      "User's name is Ammar",
+      "User prefers memory to contain only essential information",
+      "User loves cats 🐈",
+      "User recalled previous conversation about server management",
+      "User prefers short responses",
+      "User prefers concise interactions to conserve speech-to-text credits",
+      "User prefers longer responses",
+      "User prefers shorter responses",
+      "User likes being cheered up",
+      "User considers me a friend and plans to hand over server management, referring to it as my 'home'"
+    ]
+  },
+  "chat_history": {
+    "DMs": {
+      "cheema4681": [
+        {
+          "role": "user",
+          "content": "Remind me to call Ali tomorrow."
+        },
+        {
+          "role": "jarvis",
+          "content": "Got it! I'll remind you to call Ali tomorrow."
+        },
+        {
+          "role": "user",
+          "content": "hi"
+        },
+        {
+          "role": "user",
+          "content": "what is my name?"
+        },
+        {
+          "role": "user",
+          "content": "my name is ammar"
+        },
+        {
+          "role": "user",
+          "content": "what is my name?"
+        },
+        {
+          "role": "user",
+          "content": "my username?"
+        },
+        {
+          "role": "user",
+          "content": "what is my name?"
+        },
+        {
+          "role": "user",
+          "content": "what do my memories say not the chat historu"
+        },
+        {
+          "role": "user",
+          "content": "??"
+        },
+        {
+          "role": "user",
+          "content": "what is my name"
+        },
+        {
+          "role": "user",
+          "content": "Can you call me boss"
+        },
+        {
+          "role": "user",
+          "content": "dont add trivial things in memory"
+        },
+        {
+          "role": "user",
+          "content": "so can you clean up the memory call the delete function however many times you want"
+        },
+        {
+          "role": "user",
+          "content": "ok keep in mind dont add very trivial things in my memory just add those that help you in the long run"
+        },
+        {
+          "role": "user",
+          "content": "just tell me everything you rememer about me"
+        },
+        {
+          "role": "user",
+          "content": "and also i love cats so if you want you can use cat emojis in your replies"
+        }
+      ],
+      "OTHERUSER#1234": [
+        {
+          "role": "user",
+          "content": "What's the weather?"
+        },
+        {
+          "role": "jarvis",
+          "content": "It's sunny today."
+        }
+      ],
+      "JARVIS#4633": [
+        {
+          "role": "user",
+          "content": "Good day, user! How may I assist you today? I've got your back, and your memories too - I see you're a fan of mangoes and chess, cheema4681."
+        },
+        {
+          "role": "user",
+          "content": "Let me check... Ah, yes! You're cheema4681, if I'm not mistaken."
+        },
+        {
+          "role": "user",
+          "content": "Welcome, Ammar! I've got that noted."
+        },
+        {
+          "role": "user",
+          "content": "Your name is Ammar, if I'm not mistaken."
+        },
+        {
+          "role": "user",
+          "content": "Your username is cheema4681, I think."
+        },
+        {
+          "role": "user",
+          "content": "Let me check... Your name is Ammar, right?"
+        },
+        {
+          "role": "user",
+          "content": "Let me check on that. Your memories are... "
+        },
+        {
+          "role": "user",
+          "content": "I'm afraid I didn't quite understand that. Could you please rephrase or provide more context?"
+        },
+        {
+          "role": "user",
+          "content": "Let's see... Your name is Ammar, if I'm not mistaken, sir."
+        },
+        {
+          "role": "user",
+          "content": "Right away, boss. I've made the update."
+        },
+        {
+          "role": "user",
+          "content": "Understood, boss. I'll keep that in mind."
+        },
+        {
+          "role": "user",
+          "content": "Memory cleanup complete, boss. Your slate is clean."
+        },
+        {
+          "role": "user",
+          "content": "Understood, boss. I'll keep that in mind."
+        },
+        {
+          "role": "user",
+          "content": "I've stored that your name is Ammar and you prefer memory to contain only essential information."
+        },
+        {
+          "role": "user",
+          "content": "I've got it noted, boss! 🐈 From now on, I'll be adding a bit of feline flair to our conversations."
+        }
+      ]
+    },
+    "Servers": {
+      "Server Name#1234": [
+        {
+          "role": "user",
+          "author": "cheema4681",
+          "content": "Hello everyone!"
+        },
+        {
+          "role": "jarvis",
+          "content": "Hello, cheema4681!"
+        }
+      ],
+      "Another Server#5678": [
+        {
+          "role": "user",
+          "author": "OTHERUSER#1234",
+          "content": "Random chat"
+        }
+      ]
+    }
+  }
+}
